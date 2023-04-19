@@ -1,4 +1,4 @@
-# 🏄‍♂️ Mustafa Khaled
+# 💻 Mustafa Khaled
 
 **`Front End Developer`**
 
