@@ -4,11 +4,13 @@
 
 "I am a highly motivated front-end developer with a year of experience in web development. I specialize in HTML, CSS, and JavaScript and enjoy learning new technologies to enhance my skills. My passion for programming and e-commerce has led me to develop a deep understanding of user behavior and user experience. I am committed to delivering creative and high-quality solutions that meet clients' needs and exceed their expectations. Let's connect and discuss how I can help bring your digital vision to life".
 
-<p align="left">
+<!-- <p align="left">
    <a href="https://www.linkedin.com/in/the-mustafa-khaled/">
       <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/profile/the-mustafa-khaled?color=%230077B5&logo=linkedin&style=for-the-badge&labelColor=CE4630"/>
    </a>
-</p>
+</p> -->
+[![Connect with me on LinkedIn](https://custom-icon-badges.demolab.com/linkedin/profile/the-mustafa-khaled?color=%230077B5&logo=linkedin&style=for-the-badge&labelColor=CE4630)](https://www.linkedin.com/in/the-mustafa-khaled/)
+
 
 
 ---
