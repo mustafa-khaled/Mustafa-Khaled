@@ -5,7 +5,7 @@
 "I am a highly motivated front-end developer with a year of experience in web development. I specialize in HTML, CSS, and JavaScript and enjoy learning new technologies to enhance my skills. My passion for programming and e-commerce has led me to develop a deep understanding of user behavior and user experience. I am committed to delivering creative and high-quality solutions that meet clients' needs and exceed their expectations. Let's connect and discuss how I can help bring your digital vision to life".
 
  <p align="left">
-   <a href="https://www.linkedin.com/in/ibrahim-ahmed-a8bba9196" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+   <a href="https://www.linkedin.com/in/the-mustafa-khaled/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
   </a>
 </p> 
 
