@@ -6,9 +6,8 @@
 
    <p align="left">
    <a href="https://www.linkedin.com/in/the-mustafa-khaled/">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/profile/YOUR_PROFILE_URL?color=%230077B5&logo=linkedin&style=for-the-badge&labelColor=CE4630"/>
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/linkedin/profile/the-mustafa-khaled?color=%230077B5&logo=linkedin&style=for-the-badge&labelColor=CE4630"/>
 </a>
-
    </p>
 
 ---
