@@ -32,5 +32,7 @@
 ![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa-khaled&show_icons=true&theme=gruvbox)
 
  ![GitHub Streak](https://streak-stats.demolab.com/?user=mustafa-khaled&theme=gruvbox&border_radius=4.5) 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-khaled&theme=nightowl&hide_border=true&layout=compact&line_height=)
+</div>
 
 #
