@@ -5,10 +5,9 @@
 "I am a highly motivated front-end developer with a year of experience in web development. I specialize in HTML, CSS, and JavaScript and enjoy learning new technologies to enhance my skills. My passion for programming and e-commerce has led me to develop a deep understanding of user behavior and user experience. I am committed to delivering creative and high-quality solutions that meet clients' needs and exceed their expectations. Let's connect and discuss how I can help bring your digital vision to life".
 
 
- <p align="left">
-  <p align="left"> <a href="https://www.linkedin.com/in/stefan-topalovic-dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
+  <p align="left"> <a href="https://www.linkedin.com/in/the-mustafa-khaled/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
   
- </p> 
+
 
 ---
 
