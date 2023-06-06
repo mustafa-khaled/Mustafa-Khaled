@@ -21,15 +21,3 @@
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
-
-<br />
-
-### 📊 Stats
-
-![Mustafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mustafa-khaled&show_icons=true&theme=gruvbox)
-
- ![GitHub Streak](https://streak-stats.demolab.com/?user=mustafa-khaled&theme=gruvbox&border_radius=4.5) 
- 
-
-#
