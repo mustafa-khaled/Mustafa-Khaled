@@ -2,12 +2,7 @@
 
 **`Front End Developer`**
 
-"I am an active and dedicated front-end developer eager to take on challenging roles in highly 
-technical environments. My goal is to contribute my expertise in Front-End Web Development to 
-provide top-notch services to a forward-thinking company. I excel at translating customer vision 
-into a functional and engaging web experience, effectively captivating and enhancing the user 
-journey. My dedication and skill set position me to make a meaningful impact on projects and 
-drive business success.".
+"I am a proactive and dedicated front-end developer with a year of hands-on experience in building and maintaining e-commerce platforms and admin dashboards. Currently, I am employed at a company where I contribute my skills to real-world projects, gaining valuable professional experience. I specialize in creating seamless and engaging web experiences, translating customer visions into functional and visually appealing interfaces. My goal is to leverage my expertise in Front-End Web Development to deliver high-quality solutions that drive business success and user satisfaction."
 
 
   <p align="left"> <a href="https://www.linkedin.com/in/the-mustafa-khaled/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
