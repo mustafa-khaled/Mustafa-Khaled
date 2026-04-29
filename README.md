@@ -8,7 +8,7 @@ I build software that serves real business operations. My work spans logistics p
 
 ### What I work on
 
-- **Business logic first** — I care about domain modeling, data consistency, and systems that reflect how the business actually works
+- **Business logic first** — I care about domain modeling, data consistency, and systems that reflect how the business works
 - **Legacy modernization** — taking fragile, slow systems and replacing them with maintainable, scalable platforms
 - **Operational tooling** — dashboards, admin panels, and internal tools that give teams real-time visibility and control
 - **Domain variety** — logistics, invoicing, field service management, and more
