@@ -1,32 +1,36 @@
-# 💻 I'm Mustafa Khaled
+# Mustafa Khaled
 
-**`Front End Developer`**
+**`Software Engineer · Legacy Modernization & Business Platforms`**
 
-"I am a proactive and dedicated front-end developer with a year of hands-on experience in building and maintaining e-commerce platforms and admin dashboards. Currently, I am employed at a company where I contribute my skills to real-world projects, gaining valuable professional experience. I specialize in creating seamless and engaging web experiences, translating customer visions into functional and visually appealing interfaces. My goal is to leverage my expertise in Front-End Web Development to deliver high-quality solutions that drive business success and user satisfaction."
+I build software that serves real business operations — shipping logistics, multi-role admin systems, and customer-facing platforms. My focus is always on translating business requirements into clean, scalable architecture: the right data flow, the right domain model, the right tradeoffs.
 
-
-  <p align="left"> <a href="https://www.linkedin.com/in/the-mustafa-khaled/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-  
-
+Currently leading the migration of a legacy CodeIgniter system to Next.js at [Luggage To Ship](https://www.linkedin.com/in/the-mustafa-khaled/), redesigning the full customer journey and rebuilding the multi-role admin experience for operations, finance, and support teams.
 
 ---
 
-### 🧰 Languages and Tools
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-<img align="left" alt="GraphQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+### What I work on
 
+- **Business logic first** — I care about domain modeling, data consistency, and systems that reflect how the business actually works
+- **Legacy modernization** — taking fragile, slow systems and replacing them with maintainable, scalable platforms
+- **Operational tooling** — dashboards, admin panels, and internal tools that give teams real-time visibility and control
+- **Full-cycle delivery** — from translating founder ideas to production-ready software
 
+---
 
+### Stack
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+---
+
+### Connect
+
+<a href="https://www.linkedin.com/in/the-mustafa-khaled/" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
